@@ -29,5 +29,3 @@ npm run server
 npm run build
 ```
 
-## Credits
-This is a project from [YouTube crash course](https://www.youtube.com/watch?v=w7ejDZ8SWv8).
